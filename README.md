@@ -1,29 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=17AA6D&fontAlign=51&textBg=false&fontColor=07D680&section=header">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&pause=1000&color=5AFFC8&center=true&vCenter=true&width=435&height=58&lines=Ana+Luiza;Aprendendo+Desenvolvimento+Full+Stack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&duration=6000&pause=500&color=5AFFC8&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Ana+Luiza" alt="Typing SVG" /></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&duration=2500&pause=300&color=5AFFC8&center=true&vCenter=true&width=700&height=60&lines=Aprendendo;Desenvolvimento+Full+Stack" alt="Typing SVG" /></a>
 
-<p align="left">
-    <a href="https://github.com/aninha-jpg?tab=followers">
-        <img alt="Git Hub" src="https://img.shields.io/badge/GitHub-0A1E17?style=for-the-badge&logo=github&logoColor=5AFFC8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fana-luiza-2a608a393%2F">
-    </a>
-    </a>
-    <a href="https://github.com/aninha-jpg?tab=repositories">
-        <img 
-            alt="Repository" 
-            title="Repository" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=5AFFC8&labelColor=0A1E17&logo=repo&color=0A1E17"/>
-    </a>
-    </a>
-    <img 
-        alt="Contato" 
-        title="analu189266@gmail.com" 
-        src="https://custom-icon-badges.demolab.com/badge/-GMAIL-0A1E17?style=for-the-badge&logo=mention&logoColor=5AFFC8"/>
+<p>
+<a href="https://github.com/aninha-jpg?tab=followers">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0A1E17?style=for-the-badge&logo=github&logoColor=5AFFC8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fana-luiza-2a608a393%2F"></a>
+<a href="https://github.com/aninha-jpg?tab=repositories"> <img alt="Repository" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=5AFFC8&labelColor=0A1E17&logo=repo&color=0A1E17"/></a>
 </p>
 
 ---
 
-### 💻 Linguagens e Tecnologias
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=5AFFC8&center=true&vCenter=true&width=700&repeat=false&height=58&lines=Linguagens+e+Tecnologias" alt="Typing SVG" /></a>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
     align="left"
@@ -86,23 +75,18 @@
 
   
 <br> 
-<br> 
-
---- 
-
-<br> 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aninha-jpg&theme=green-nur&hide_border=true&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
 
 <br> 
 
 --- 
 
-<br> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=5AFFC8&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Contato" alt="Typing SVG" /></a>
 
 <p>
-<img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-0A1E17?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fana-luiza-2a608a393%2F"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/Discord-0A1E17?style=for-the-badge&logo=Discord&logoColor=5AFFC8&link=https%3A%2F%2Fdiscord.gg%2FwuxFgUTD">
+<img alt="Linkedin" src="https://img.shields.io/badge/LINKEDIN-0A1E17?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fana-luiza-2a608a393%2F"> 
+<img alt="Discord" src="https://img.shields.io/badge/Discord-0A1E17?style=for-the-badge&logo=Discord&logoColor=5AFFC8&link=https%3A%2F%2Fdiscord.gg%2FwuxFgUTD">
+<img alt="Gmail" title="analu189266@gmail.com" src="https://custom-icon-badges.demolab.com/badge/-GMAIL-0A1E17?style=for-the-badge&logo=mention&logoColor=5AFFC8"/>
+<a href="https://github.com/aninha-jpg?tab=followers">
+
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=17AA6D&fontAlign=51&textBg=false&fontColor=07D680&section=footer">
