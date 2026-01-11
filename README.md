@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&duration=6000&pause=500&color=5AFFC8&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Ana+Luiza" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&duration=2500&pause=300&color=5AFFC8&center=true&vCenter=true&width=700&height=60&lines=Aprendendo;Desenvolvimento+Full+Stack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&duration=6000&pause=500&color=5AFFC8&center=true&vCenter=true&width=700&height=60&lines=Aprendendo;Desenvolvimento+Full+Stack" alt="Typing SVG" /></a>
 
 <p>
 <a href="https://github.com/aninha-jpg">
@@ -12,7 +12,7 @@
 
 ---
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=6000&pause=800&color=5AFFC8&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Linguagens+e+Tecnologias" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=6000&pause=800&color=5AFFC8&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Linguagens+e+Tecnologias" alt="Typing SVG" /></a>
 </a>
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="30px" style="padding-right: 10px;"/>
@@ -27,7 +27,7 @@
 
 --- 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=6000&pause=800&color=5AFFC8&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Contato" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=6000&pause=800&color=5AFFC8&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Contato" alt="Typing SVG" /></a>
 <p>
 <a href="https://www.linkedin.com/in/ana-luiza-2a608a393/"><img alt="Linkedin" src="https://img.shields.io/badge/LINKEDIN-0A1E17?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fana-luiza-2a608a393%2F"></a>
 <a href="https://discord.gg/wuxFgUTD"><img alt="Discord" src="https://img.shields.io/badge/Discord-0A1E17?style=for-the-badge&logo=Discord&logoColor=5AFFC8&link=https%3A%2F%2Fdiscord.gg%2FwuxFgUTD"></a>
