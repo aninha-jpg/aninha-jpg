@@ -14,6 +14,7 @@
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=5AFFC8&center=true&vCenter=true&width=700&repeat=false&height=58&lines=Linguagens+e+Tecnologias" alt="Typing SVG"/>
 </a>
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="30px" style="padding-right: 10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"alt="CSS3" width="30px" style="padding-right: 10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px"style="padding-right: 10px;"/>
