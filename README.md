@@ -1,26 +1,24 @@
-# ✨ Ana Luiza
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=17AA6D&fontAlign=51&textBg=false&fontColor=07D680&section=header">
 
-**`Aprendendo Desenvolvimento Full Stack`**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&pause=1000&color=5AFFC8&center=true&vCenter=true&width=435&height=58&lines=Ana+Luiza;Aprendendo+Desenvolvimento+Full+Stack" alt="Typing SVG" /></a>
 
-Me chamo Ana Luiza e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela PUCPR. 
+
 <p align="left">
     <a href="https://github.com/aninha-jpg?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/aninha-jpg?color=285542&labelColor=285542&style=for-the-badge&logo=github&label=Followers&logoColor=07D680"/>
+        <img alt="Git Hub" src="https://img.shields.io/badge/GitHub-0A1E17?style=for-the-badge&logo=github&logoColor=5AFFC8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fana-luiza-2a608a393%2F">
+    </a>
     </a>
     <a href="https://github.com/aninha-jpg?tab=repositories">
         <img 
             alt="Repository" 
             title="Repository" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=07D680&labelColor=285542&logo=repo&color=285542"/>
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=5AFFC8&labelColor=0A1E17&logo=repo&color=0A1E17"/>
     </a>
     </a>
     <img 
         alt="Contato" 
         title="analu189266@gmail.com" 
-        src="https://custom-icon-badges.demolab.com/badge/-GMAIL-285542?style=for-the-badge&logo=mention&logoColor=07D680"/>
+        src="https://custom-icon-badges.demolab.com/badge/-GMAIL-0A1E17?style=for-the-badge&logo=mention&logoColor=5AFFC8"/>
 </p>
 
 ---
@@ -85,7 +83,26 @@ Me chamo Ana Luiza e atualmente estou cursando Análise e Desenvolvimento de Sis
     width="30px" 
     style="padding-right: 10px;" 
 />
+
   
 <br> 
-<br>  
+<br> 
 
+--- 
+
+<br> 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aninha-jpg&theme=green-nur&hide_border=true&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
+
+<br> 
+
+--- 
+
+<br> 
+
+<p>
+<img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-0A1E17?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fana-luiza-2a608a393%2F"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/Discord-0A1E17?style=for-the-badge&logo=Discord&logoColor=5AFFC8&link=https%3A%2F%2Fdiscord.gg%2FwuxFgUTD">
+</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=17AA6D&fontAlign=51&textBg=false&fontColor=07D680&section=footer">
