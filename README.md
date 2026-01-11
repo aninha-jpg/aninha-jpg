@@ -17,12 +17,10 @@ Me chamo Ana Luiza e atualmente estou cursando Análise e Desenvolvimento de Sis
             src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=07D680&labelColor=285542&logo=repo&color=285542"/>
     </a>
     </a>
-    <a href="https://github.com/aninha-jpg?tab=repositories">
-        <img 
-            alt="Contato" 
-            title="analuizalima.dev@gmail.com" 
-            src="https://custom-icon-badges.demolab.com/badge/-GMAIL-285542?style=for-the-badge&logo=mention&logoColor=07D680"/>
-    </a>
+    <img 
+        alt="Contato" 
+        title="analu189266@gmail.com" 
+        src="https://custom-icon-badges.demolab.com/badge/-GMAIL-285542?style=for-the-badge&logo=mention&logoColor=07D680"/>
 </p>
 
 ---
@@ -56,8 +54,8 @@ Me chamo Ana Luiza e atualmente estou cursando Análise e Desenvolvimento de Sis
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     align="left"      
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
 />
@@ -65,8 +63,8 @@ Me chamo Ana Luiza e atualmente estou cursando Análise e Desenvolvimento de Sis
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
     align="left"      
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Microsoft VS Code" 
+    title="Microsoft VS Code"
     width="30px" 
     style="padding-right: 10px;" 
 />
@@ -74,23 +72,20 @@ Me chamo Ana Luiza e atualmente estou cursando Análise e Desenvolvimento de Sis
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
     align="left"      
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Bootstrap" 
+    title="Bootstrap"
     width="30px" 
     style="padding-right: 10px;" 
 />
-          
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"
     align="left"
     alt="GIT" 
     title="GIT"
     width="30px" 
     style="padding-right: 10px;" 
 />
+  
 <br> 
-<br>    
----
+<br>  
 
-
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
