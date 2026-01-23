@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&duration=6000&pause=500&color=5AFFC8&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Ana+Luiza" alt="Typing SVG" /></a>
 
-                                Aprendendo Desenvolvimento Full Stack
+                                  Aprendendo Desenvolvimento Full Stack
 
 <p>
 <a href="https://github.com/aninha-jpg">
@@ -19,13 +19,7 @@
 
 </a>
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="30px" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"alt="CSS3" width="30px" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px"style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="30px"style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Microsoft VS Code" width="30px" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30px"style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" alt="Git" width="30px" style="padding-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="30px" style="padding-right: 10px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"alt="CSS3" width="30px" style="padding-right: 10px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px"style="padding-right: 10px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="30px"style="padding-right: 10px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Microsoft VS Code" width="30px" style="padding-right: 10px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30px"style="padding-right: 10px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" alt="Git" width="30px" style="padding-right: 10px;"/>
 </p>
 <br> 
 
