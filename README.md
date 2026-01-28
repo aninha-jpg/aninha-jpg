@@ -31,6 +31,5 @@
 <p>
 <a href="https://www.linkedin.com/in/ana-luiza-2a608a393/"><img alt="Linkedin" src="https://img.shields.io/badge/LINKEDIN-0A1E17?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fana-luiza-2a608a393%2F"></a>
 <a href="https://discord.gg/wuxFgUTD"><img alt="Discord" src="https://img.shields.io/badge/Discord-0A1E17?style=for-the-badge&logo=Discord&logoColor=5AFFC8&link=https%3A%2F%2Fdiscord.gg%2FwuxFgUTD"></a>
-<img alt="Gmail" title="analu189266@gmail.com" src="https://custom-icon-badges.demolab.com/badge/-analu189266@gmail.com-0A1E17?style=for-the-badge&logo=mention&logoColor=5AFFC8"/>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=17AA6D&fontAlign=51&textBg=false&fontColor=07D680&section=footer">
