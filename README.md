@@ -1,35 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=17AA6D&fontAlign=51&textBg=false&fontColor=07D680&section=header">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=A821F0&fontAlign=51&textBg=false&fontColor=A821F0&section=header">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&duration=6000&pause=500&color=5AFFC8&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Ana+Luiza" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&size=36&duration=7000&pause=1000&color=953CC5&center=true&width=700&lines=Ana+Luiza" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&duration=6000&pause=500&color=5AFFC8&center=true&vCenter=true&width=700&height=60&lines=Aprendendo;Desenvolvimento+Full+Stack" alt="Typing SVG" /></a>
+# 🚀 About me
 
-<p>
-<a href="https://github.com/aninha-jpg">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0A1E17?style=for-the-badge&logo=github&logoColor=5AFFC8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fana-luiza-2a608a393%2F"></a>
-<a href="https://github.com/aninha-jpg?tab=repositories"> <img alt="Repository" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=5AFFC8&labelColor=0A1E17&logo=repo&color=0A1E17"/></a>
-</p>
+I'm a full-stack development student passionate about games and books.
 
----
-<p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=6000&pause=800&color=5AFFC8&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Linguagens+e+Tecnologias" alt="Typing SVG" /></a>
-</a>
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="30px" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"alt="CSS3" width="30px" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px"style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="30px"style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Microsoft VS Code" width="30px" style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30px"style="padding-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" alt="Git" width="30px" style="padding-right: 10px;"/>
-</p>
-<br> 
+My goal is to use programming to turn these passions into projects, exploring creativity, storytelling, and game mechanics through code.
 
---- 
+Currently focused on learning, practicing, and building better projects every day.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=6000&pause=800&color=5AFFC8&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Contato" alt="Typing SVG" /></a>
-<p>
-<a href="https://www.linkedin.com/in/ana-luiza-2a608a393/"><img alt="Linkedin" src="https://img.shields.io/badge/LINKEDIN-0A1E17?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fana-luiza-2a608a393%2F"></a>
-<a href="https://discord.gg/wuxFgUTD"><img alt="Discord" src="https://img.shields.io/badge/Discord-0A1E17?style=for-the-badge&logo=Discord&logoColor=5AFFC8&link=https%3A%2F%2Fdiscord.gg%2FwuxFgUTD"></a>
-</p>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=17AA6D&fontAlign=51&textBg=false&fontColor=07D680&section=footer">
+# 💻 Languages ​& Technologies:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aninha-jpg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aninha-jpg&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aninha-jpg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=A821F0&fontAlign=51&textBg=false&fontColor=A821F0&section=footer">
