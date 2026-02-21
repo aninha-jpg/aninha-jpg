@@ -20,6 +20,10 @@ Atualmente, focada em estudar, praticar e melhorar meus projetos a cada dia.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aninha-jpg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🎵 Ouvindo agora:
-[![Spotify](https://novatide-spotify-github-profile.vercel.app/api/view?uid=31q73v22j3r6p4f5v2z6j2x7n47e&cover_image=true&theme=novatide&show_status=true)](https://open.spotify.com/user/31xk7p6atlozatzmri2zinresyy4?si=14560b75d0e749a1)
+<div align="center">
+  <a href="https://open.spotify.com/user/31q73v22j3r6p4f5v2z6j2x7n47e">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31q73v22j3r6p4f5v2z6j2x7n47e&cover_image=true&theme=novatide" alt="Spotify" />
+  </a>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=A821F0&fontAlign=51&textBg=false&fontColor=A821F0&section=footer">
