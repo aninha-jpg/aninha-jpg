@@ -2,15 +2,15 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&size=36&duration=7000&pause=1000&color=953CC5&center=true&width=700&lines=Ana+Luiza" alt="Typing SVG" /></a>
 
-# 🚀 About me
+# 🚀 Sobre mim
 
-I'm a full-stack development student passionate about games and books.
+Eu sou estudante de **Análise e Desenvolvimento de sistemas** e aplico meus estudos em desenvolvimento **Full-Stack.**
 
-My goal is to use programming to turn these passions into projects, exploring creativity, storytelling, and game mechanics through code.
+Pretendo aplicar a programação nos meus interesses, utilizando minhas paixões como **livros, Jogos e Música**, para trazer aplicativos e funcionalidades com mais criatividade.
 
-Currently focused on learning, practicing, and building better projects every day.
+Atualmente, focada em estudar, praticar e melhorar meus projetos a cada dia.
 
-# 💻 Languages ​& Technologies:
+# 💻 Linguagens e Tecnologias:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
@@ -18,5 +18,8 @@ Currently focused on learning, practicing, and building better projects every da
 ![](https://github-readme-stats.vercel.app/api?username=aninha-jpg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aninha-jpg&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aninha-jpg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🎵 Ouvindo agora:
+[![Spotify](https://novatide-spotify-github-profile.vercel.app/api/view?uid=31q73v22j3r6p4f5v2z6j2x7n47e&cover_image=true&theme=novatide&show_status=true)](https://open.spotify.com/user/31xk7p6atlozatzmri2zinresyy4?si=14560b75d0e749a1)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=A821F0&fontAlign=51&textBg=false&fontColor=A821F0&section=footer">
