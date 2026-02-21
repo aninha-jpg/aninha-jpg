@@ -6,7 +6,7 @@
 
 Eu sou estudante de **Análise e Desenvolvimento de sistemas** e aplico meus estudos em desenvolvimento **Full-Stack.**
 
-Pretendo aplicar a programação nos meus interesses, utilizando minhas paixões como **livros, Jogos e Música**, para trazer aplicativos e funcionalidades com mais criatividade.
+Pretendo utilizar a programação nos meus interesses, utilizando minhas paixões como **livros, Jogos e Música**, para trazer aplicativos e funcionalidades com mais criatividade.
 
 Atualmente, focada em estudar, praticar e melhorar meus projetos a cada dia.
 
