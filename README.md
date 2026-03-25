@@ -48,9 +48,9 @@ Atualmente, focada em estudar, praticar e melhorar meus projetos a cada dia. ✨
 ## 🔮 Contato
 
 <p align="center">
-  <a href="https://aninha-jpg.github.io/portfolio/"><img src="https://img.shields.io/badge/meu_portfólio-%231a1b27.svg?style=for-the-badge&logo=rocket&logoColor=%23ef35ed" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/ana-luiza-2a608a393/"><img src="https://img.shields.io/badge/linkedin-%231a1b27.svg?style=for-the-badge&logo=linkedin&logoColor=%23ef35ed" alt="LinkedIn"></a>
-  <a href="mailto:analuizalima.dev@gmail.com"><img src="https://img.shields.io/badge/gmail-%231a1b27.svg?style=for-the-badge&logo=gmail&logoColor=%23ef35ed" alt="Gmail"></a>
+  <a href="https://aninha-jpg.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/meu_portfólio-%231a1b27.svg?style=for-the-badge&logo=rocket&logoColor=%23ef35ed" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/ana-luiza-2a608a393/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231a1b27.svg?style=for-the-badge&logo=linkedin&logoColor=%23ef35ed" alt="LinkedIn"></a>
+  <a href="mailto:analuizalima.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%231a1b27.svg?style=for-the-badge&logo=gmail&logoColor=%23ef35ed" alt="Gmail"></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=A821F0&fontAlign=51&textBg=false&fontColor=A821F0&section=footer">
