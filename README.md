@@ -24,14 +24,15 @@ Atualmente, focada em estudar, praticar e melhorar meus projetos a cada dia. ✨
   <img src="https://img.shields.io/badge/git-%231a1b27.svg?style=for-the-badge&logo=git&logoColor=%23ef35ed" alt="Git">
   <img src="https://img.shields.io/badge/sql-%231a1b27.svg?style=for-the-badge&logo=mysql&logoColor=%23ef35ed" alt="SQL">
   <img src="https://img.shields.io/badge/Ubuntu-%231a1b27.svg?style=for-the-badge&logo=ubuntu&logoColor=%23ef35ed" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/VS_Code-%231a1b27.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23ef35ed" alt="VS Code">
+  <img src="https://img.shields.io/badge/Microsoft_VS_Code-%231a1b27.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23ef35ed" alt="Microsoft VS Code">
+  <img src="https://img.shields.io/badge/java-%231a1b27.svg?style=for-the-badge&logo=openjdk&logoColor=%23ef35ed" alt="Java">
 </p>
 
 # ✨ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aninha-jpg&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninha-jpg&theme=synthwave&hide_border=false&layout=compact" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aninha-jpg&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninha-jpg&theme=synthwave&hide_border=false&hide_progress=true" height="165" />
 </p>
 
 ---
