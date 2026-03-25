@@ -29,18 +29,11 @@ Atualmente, focada em estudar, praticar e melhorar meus projetos a cada dia. ✨
 
 # ✨ GitHub Stats
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=aninha-jpg&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" height="175" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninha-jpg&hide_progress=true&theme=synthwave" height="175" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aninha-jpg&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" height="175" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninha-jpg&hide_progress=true&theme=synthwave" height="175" />
+</p>
 
 ---
 
