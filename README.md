@@ -28,13 +28,6 @@ Atualmente, focada em estudar, praticar e melhorar meus projetos a cada dia. ✨
   <img src="https://img.shields.io/badge/java-%231a1b27.svg?style=for-the-badge&logo=openjdk&logoColor=%23ef35ed" alt="Java">
 </p>
 
-# ✨ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninha-jpg&theme=synthwave&hide_border=false&hide_progress=true" height="165" />
-</p>
-
----
 
 <p align="center">
   <picture>
