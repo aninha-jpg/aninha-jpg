@@ -6,7 +6,7 @@
 
 # 👾 Sobre mim
 
-Eu sou estudante de **Análise e Desenvolvimento de sistemas** e aplico meus estudos em desenvolvimento **Full-Stack.** 👩‍💻
+Eu sou estudante de **Análise e Desenvolvimento de sistemas** e aplico meus estudos em desenvolvimento **Back-End.** 👩‍💻
 
 Pretendo utilizar a programação nos meus interesses, utilizando minhas paixões como **livros 📚, Jogos 🎮 e Música 🎧**, para trazer aplicativos e funcionalidades com mais criatividade.
 
