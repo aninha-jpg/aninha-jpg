@@ -16,8 +16,8 @@ Atualmente, focada em estudar, praticar e melhorar meus projetos a cada dia. ✨
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%231a1b27.svg?style=for-the-badge&logo=openjdk&logoColor=%23ef35ed" alt="Java">
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=%23ef35ed" alt="Spring">
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=%23ef35ed" alt="Postman">
+  <img src="https://img.shields.io/badge/Spring-%231a1b27.svg?style=for-the-badge&logo=spring&logoColor=%23ef35ed" alt="Spring">
+  <img src="https://img.shields.io/badge/Postman-%231a1b27.svg?style=for-the-badge&logo=postman&logoColor=%23ef35ed" alt="Postman">
   <img src="https://img.shields.io/badge/html5-%231a1b27.svg?style=for-the-badge&logo=html5&logoColor=%23ef35ed" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231a1b27.svg?style=for-the-badge&logo=css3&logoColor=%23ef35ed" alt="CSS3">
   <img src="https://img.shields.io/badge/javascript-%231a1b27.svg?style=for-the-badge&logo=javascript&logoColor=%23ef35ed" alt="JavaScript">
