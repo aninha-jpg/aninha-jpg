@@ -28,7 +28,6 @@ Atualmente, focada em estudar, praticar e melhorar meus projetos a cada dia. ✨
   <img src="https://img.shields.io/badge/JSON-%231a1b27.svg?style=for-the-badge&logo=json&logoColor=%23ef35ed" alt="JSON">
   <img src="https://img.shields.io/badge/Linux-%231a1b27.svg?style=for-the-badge&logo=linux&logoColor=%23ef35ed" alt="Linux">
   <img src="https://img.shields.io/badge/Microsoft_VS_Code-%231a1b27.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23ef35ed" alt="Microsoft VS Code">
-  <img src="https://img.shields.io/badge/Linux-%231a1b27.svg?style=for-the-badge&logo=linux&logoColor=%23ef35ed" alt="Linux">
 </p>
 
 
