@@ -15,17 +15,20 @@ Atualmente, focada em estudar, praticar e melhorar meus projetos a cada dia. ✨
 # 💻 Linguagens e Tecnologias
 
 <p align="center">
+  <img src="https://img.shields.io/badge/java-%231a1b27.svg?style=for-the-badge&logo=openjdk&logoColor=%23ef35ed" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/html5-%231a1b27.svg?style=for-the-badge&logo=html5&logoColor=%23ef35ed" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231a1b27.svg?style=for-the-badge&logo=css3&logoColor=%23ef35ed" alt="CSS3">
   <img src="https://img.shields.io/badge/javascript-%231a1b27.svg?style=for-the-badge&logo=javascript&logoColor=%23ef35ed" alt="JavaScript">
   <img src="https://img.shields.io/badge/python-%231a1b27.svg?style=for-the-badge&logo=python&logoColor=%23ef35ed" alt="Python">
-  <img src="https://img.shields.io/badge/bootstrap-%231a1b27.svg?style=for-the-badge&logo=bootstrap&logoColor=%23ef35ed" alt="Bootstrap">
   <img src="https://img.shields.io/badge/github-%231a1b27.svg?style=for-the-badge&logo=github&logoColor=%23ef35ed" alt="GitHub">
   <img src="https://img.shields.io/badge/git-%231a1b27.svg?style=for-the-badge&logo=git&logoColor=%23ef35ed" alt="Git">
   <img src="https://img.shields.io/badge/sql-%231a1b27.svg?style=for-the-badge&logo=mysql&logoColor=%23ef35ed" alt="SQL">
-  <img src="https://img.shields.io/badge/Ubuntu-%231a1b27.svg?style=for-the-badge&logo=ubuntu&logoColor=%23ef35ed" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/JSON-%231a1b27.svg?style=for-the-badge&logo=json&logoColor=%23ef35ed" alt="JSON">
+  <img src="https://img.shields.io/badge/Linux-%231a1b27.svg?style=for-the-badge&logo=linux&logoColor=%23ef35ed" alt="Linux">
   <img src="https://img.shields.io/badge/Microsoft_VS_Code-%231a1b27.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23ef35ed" alt="Microsoft VS Code">
-  <img src="https://img.shields.io/badge/java-%231a1b27.svg?style=for-the-badge&logo=openjdk&logoColor=%23ef35ed" alt="Java">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
 </p>
 
 
